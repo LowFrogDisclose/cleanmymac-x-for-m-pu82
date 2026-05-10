@@ -1,4 +1,4 @@
-
+ultimate CleanMyMac X for macOS Helper | file-indexing + scripting-support is the best CleanMyMac X for macOS helper, featuring file-indexing and scripting-support. Safe,
 
 
 
